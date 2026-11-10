@@ -1,0 +1,10 @@
+[project]
+name = "comfyui-aigifmaker"
+description = "Text to animated GIF in ComfyUI through AI GIF Maker (aigifmaker.ai): native GIF generation, no local GPU, one API key."
+version = "0.1.0"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/hanshs474/ComfyUI-aigifmaker"
+Homepage = "https://aigifmaker.ai/?utm_source=comfyui&utm_medium=node"
